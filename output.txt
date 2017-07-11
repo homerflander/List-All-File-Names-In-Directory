@@ -1,5 +1,11 @@
-README.md
+'
+	->'.txt
+output.txt
 test1
-    ->test2
-        ->test3
-            ->hi github.txt
+	->test2
+		->test3
+			->hi github.txt
+¯1_(ツ)_1¯
+’
+	->’.txt
+❤ ☀ ☆ ☂ ☻ ♞ ☯ ☭ ☢ € →
