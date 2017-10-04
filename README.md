@@ -1,4 +1,4 @@
-#List-All-File-Names-In-Directory (Completed/Working)
+# List-All-File-Names-In-Directory (Completed/Working)
 This is a more complex script that creates a list of names for the every files/folder within the directory, this includes sub files/ sub folders, using recursion. Next, the script outputs the list to a text file. Created and Tested on Windows OS.
 <br /><br />
 Note: <br />
